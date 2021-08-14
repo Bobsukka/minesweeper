@@ -1,5 +1,5 @@
 # Minesweeper
-
+This is my open source minesweeper code made with python
 ## Preview:
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/855123671722754049/876030644336078878/prev.png" width="600px" />
