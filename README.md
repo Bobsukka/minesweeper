@@ -11,4 +11,4 @@
 2. Intall pygame by typing ```pip install pygame```
 3. Redirect to the folder
 4. Type ```python main.py``` to console/terminal
-5. You have succsesfully started the game, have fun 😄
+5. You have succsesfully started the game, have fun 😁
